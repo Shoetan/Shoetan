@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on ecommerce solutions.
 - 🤔 I’m looking for help with learning javascript.
 - 💬 Ask me about anything.
-- 📫 How to reach me: [soetan.dev](soetan.dev)
+- 📫 How to reach me: [soetan.dev](https://soetan.dev)
 - ⚡ Fun fact: I do not like pineapple toppings on pizza
 
 
