@@ -1,6 +1,6 @@
 # Hi there Friend😁
 
-[!Emmnanuel Banner]()
+
 
 - 🔭 I’m currently working on custom shopify store front.
 - 🌱 I’m currently learning JavaScript.
