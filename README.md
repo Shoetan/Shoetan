@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working with present day technologies like react js, node js, express js. tailwindcss.
+- 🔭 I’m currently working with present day technologies like react js, node js,next js, express js, HTML, tailwindcss.
 - 🌱 Always learning Javascript.
 - 👯 I’m looking to collaborate on web solutions to make lives better.
 - 🤔 I’m looking for full remote, full time and part time opportunites to solve problems with code.
