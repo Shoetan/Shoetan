@@ -2,10 +2,16 @@
 
 
 # 💫 About Me:
-Hello, I'm Emmanuel, a software developer specializing in React, JavaScript, Redux, Firebase, Tailwind CSS, Next.js, Express, Node.js, and Material UI.I'm a skilled problem solver who enjoys finding creative solutions that meet technical and business needs. Let's connect and work together to create high-quality software.
+Hello, I am Emmanuel
 
-- 🔭 I’m currently working with present day technologies like react js, node js,next js, express js, HTML, tailwindcss.
-- 👯 I’m looking to collaborate on web solutions to make lives better.
+Passionate software engineer with a demonstrated history of solving complex problems using HTML, CSS, JavaScript, React, nextJs, Redux, Firebase, MongoDB, node js, express js, tailwindCss, Material UI
+
+Committed to being a valuable team player and always willing to lend a hand to teammates when needed. 
+
+I thrive in a collaborative and fast-paced environment and am always looking for new challenges to help me grow and learn. 
+
+Let's connect and discuss how I can make a significant contribution to your team.
+
 - 📫 How to reach me: [soetan.dev@gmail.com](https://soetan.dev@gmail.com).
 
 ## 🌐 Socials:
