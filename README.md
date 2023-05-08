@@ -17,7 +17,7 @@ Let's connect and discuss how I can make a significant contribution to your team
 # Latest Blog Posts
 <ul style="display: flex; flex-direction: row; gap: 10px;">
   <li style="display: flex; gap: 10px;">
-    <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1683125306635/28fe26f6-026e-4c74-87d0-bf841556ecba.jpeg?w=840&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Blog post 1 thumbnail" width="100" height="100">
+    <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1683552905755/2d9c86be-d82c-48dc-aa45-41bf5941b87e.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Blog post 1 thumbnail" width="300" height="150">
     <div style ="display: flex; flex-direction: colunm gap: 10px;">
       <h4><a href="https://immanuelsoetan.hashnode.dev/first-time-open-source-contributor-here-are-5-valuable-lessons-i-learned">First-time Open Source Contributor? Here are 5 Valuable Lessons I Learned.</a></h4>
       <p>You have heard over and over again how open source contribution can exponentially improve your skills as someone who is trying to land a tech          role.You might have also come across a YouTube video of someone that landed a remote role by contributing to open source, and you felt so inspired and decided to contribute to open source too.
