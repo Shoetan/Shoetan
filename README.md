@@ -16,7 +16,7 @@ Let's connect and discuss how I can make a significant contribution to your team
 
 # Latest Blog Posts
 <ul style="display: flex; flex-direction: row; gap: 10px;">
-  <li style="display: flex; gap: 10px;">
+  <li style="">
     <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1683552905755/2d9c86be-d82c-48dc-aa45-41bf5941b87e.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Blog post 1 thumbnail" width="300" height="150">
     <div style ="display: flex; flex-direction: colunm gap: 10px;">
       <h4><a href="https://immanuelsoetan.hashnode.dev/first-time-open-source-contributor-here-are-5-valuable-lessons-i-learned">First-time Open Source Contributor? Here are 5 Valuable Lessons I Learned.</a></h4>
