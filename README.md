@@ -24,6 +24,17 @@ Let's connect and discuss how I can make a significant contribution to your team
       </p>
     </div>
   </li>
+  
+  <li style="">
+    <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1683720135727/9683e5d3-5a18-4a4f-86ae-5cf225aee745.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Blog post 1 thumbnail" width="300" height="150">
+    <div style ="display: flex; flex-direction: colunm gap: 10px;">
+      <h4><a href="https://immanuelsoetan.hashnode.dev/javascript-array-splice-method-adding-and-removing-elements-made-easy">JavaScript Array Splice() Method: Adding and Removing Elements Made Easy.</a></h4>
+      <p>A nifty little trick to add to your arsenal.
+The JavaScript splice () method mutates the contents of an array in a spectacular way.
+You can remove and add to an array with the same method.
+      </p>
+    </div>
+  </li>
 
 </ul>
 
