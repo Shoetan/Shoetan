@@ -17,7 +17,7 @@ Let's connect and discuss how I can make a significant contribution to your team
 # Latest Blog Posts
 <ul style="display: flex; flex-direction: row; gap: 10px;">
   <li style="">
-    <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1683552905755/2d9c86be-d82c-48dc-aa45-41bf5941b87e.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Blog post 1 thumbnail" width="300" height="150">
+    <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1683552905755/2d9c86be-d82c-48dc-aa45-41bf5941b87e.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Lessons learnt from open source contribution" width="300" height="150">
     <div style ="display: flex; flex-direction: colunm gap: 10px;">
       <h4><a href="https://immanuelsoetan.hashnode.dev/first-time-open-source-contributor-here-are-5-valuable-lessons-i-learned">First-time Open Source Contributor? Here are 5 Valuable Lessons I Learned.</a></h4>
       <p>You have heard over and over again how open source contribution can exponentially improve your skills as someone who is trying to land a tech          role.You might have also come across a YouTube video of someone that landed a remote role by contributing to open source, and you felt so inspired and decided to contribute to open source too.
@@ -26,7 +26,7 @@ Let's connect and discuss how I can make a significant contribution to your team
   </li>
   
   <li style="">
-    <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1683720135727/9683e5d3-5a18-4a4f-86ae-5cf225aee745.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Blog post 1 thumbnail" width="300" height="150">
+    <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1683720135727/9683e5d3-5a18-4a4f-86ae-5cf225aee745.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="javascript splice method" width="300" height="150">
     <div style ="display: flex; flex-direction: colunm gap: 10px;">
       <h4><a href="https://immanuelsoetan.hashnode.dev/javascript-array-splice-method-adding-and-removing-elements-made-easy">JavaScript Array Splice() Method: Adding and Removing Elements Made Easy.</a></h4>
       <p>A nifty little trick to add to your arsenal.
@@ -35,6 +35,19 @@ You can remove and add to an array with the same method.
       </p>
     </div>
   </li>
+  
+  
+  <li style="">
+    <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1684332872499/b6b1cd3e-9cb6-4b34-9d6b-4bc46b988ca2.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="useState hook in react" width="300" height="150">
+    <div style ="display: flex; flex-direction: colunm gap: 10px;">
+      <h4><a href="https://immanuelsoetan.hashnode.dev/how-to-use-the-usestate-hook-in-react">How to use the useState Hook in React.</a></h4>
+      <p>State management is one of the backbones of morden software development. React has an in built state management hook known as the useState Hook. In this article we go on a journey to try and understand this concept.
+      </p>
+    </div>
+  </li>
+
+  
+  
 
 </ul>
 
