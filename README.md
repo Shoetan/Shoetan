@@ -4,7 +4,7 @@
 # 💫 About Me:
 Hello, I am Emmanuel
 
-Passionate software engineer with a demonstrated history of solving complex problems using HTML, CSS, JavaScript, React, nextJs, Redux, Firebase, typescript, tailwindCss, Material UI
+Passionate software engineer with a demonstrated history of solving complex problems using HTML, CSS, JavaScript, React, nextJs, Redux, Firebase, typescript,React Query, tailwindCss, Material UI
 
 I am committed to being a valuable team player and always willing to lend a hand to teammates when needed. 
 
