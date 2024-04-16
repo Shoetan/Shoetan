@@ -4,7 +4,7 @@
 # 💫 About Me:
 Hello, I am Emmanuel
 
-Passionate software engineer with a demonstrated history of solving complex problems using HTML, CSS, JavaScript, React, nextJs, Redux, Firebase, typescript,React Query, tailwindCss, Material UI
+Passionate software engineer with a demonstrated history of solving complex problems using HTML, CSS, JavaScript, React, nextJs, Redux, Firebase, typescript, React Query, tailwindCss, Material UI
 
 I am committed to being a valuable team player and always willing to lend a hand to teammates when needed. 
 
@@ -18,8 +18,8 @@ Let's connect and discuss how I can significantly contribute to your team.
 <ul style="display: flex; flex-direction: row; gap: 10px;">
    <li style="">
     <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1713198600939/aebb5d82-ca73-4f67-a56b-efff98c71a6e.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Connect to a PostgreSQL database with Golang easily" width="300" height="150">
-    <div style ="display: flex; flex-direction: colunm gap: 10px;">
-      <h4><a href="https://immanuelsoetan.hashnode.dev/how-to-effortlessly-connect-to-postgresql-with-golang">First-time Open Source Contributor? Here are 5 Valuable Lessons I Learned.</a></h4>
+    <div style ="display: flex; flex-direction: column gap: 10px;">
+      <h4><a href="https://immanuelsoetan.hashnode.dev/how-to-effortlessly-connect-to-postgresql-with-golang">Connect to a PostgreSQL with Docker very easily.</a></h4>
       <p> When I tried to connect to a database for the first time I almost lost my mind. It was so frustrating and I do not want you to go through what I went through.
       </p>
     </div>
