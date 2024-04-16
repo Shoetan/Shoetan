@@ -16,6 +16,16 @@ Let's connect and discuss how I can significantly contribute to your team.
 
 # Latest Blog Posts
 <ul style="display: flex; flex-direction: row; gap: 10px;">
+   <li style="">
+    <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1713198600939/aebb5d82-ca73-4f67-a56b-efff98c71a6e.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Connect to a PostgreSQL database with Golang easily" width="300" height="150">
+    <div style ="display: flex; flex-direction: colunm gap: 10px;">
+      <h4><a href="https://immanuelsoetan.hashnode.dev/how-to-effortlessly-connect-to-postgresql-with-golang">First-time Open Source Contributor? Here are 5 Valuable Lessons I Learned.</a></h4>
+      <p> When I tried to connect to a database for the first time I almost lost my mind. It was so frustrating and I do not want you to go through what I went through.
+      </p>
+    </div>
+  </li>
+
+  
   <li style="">
     <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1683552905755/2d9c86be-d82c-48dc-aa45-41bf5941b87e.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Lessons learnt from open source contribution" width="300" height="150">
     <div style ="display: flex; flex-direction: colunm gap: 10px;">
