@@ -26,8 +26,17 @@ Let's connect and discuss how I can significantly contribute to your team.
   </li>
 
   
-  <li style="">
+ <li style="">
     <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1683552905755/2d9c86be-d82c-48dc-aa45-41bf5941b87e.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Lessons learnt from open source contribution" width="300" height="150">
+    <div style ="display: flex; flex-direction: colunm gap: 10px;">
+      <h4><a href="https://immanuelsoetan.hashnode.dev/build-a-cli-in-golang">I built a CLI tool in Golang.</a></h4>
+      <p> In a quest to improve my skills and proficiency in Golang, I built a simple CLI tool I got this idea from John Crickett's coding challenges newsletter and It turned out to be quite easy and challenging at the same time.
+      </p>
+    </div>
+  </li>
+  
+  <li style="">
+    <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1707124124430/90f0c723-f7e2-47c0-b198-c65939481ef0.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Build a CLI tool in Golang" width="300" height="150">
     <div style ="display: flex; flex-direction: colunm gap: 10px;">
       <h4><a href="https://immanuelsoetan.hashnode.dev/first-time-open-source-contributor-here-are-5-valuable-lessons-i-learned">First-time Open Source Contributor? Here are 5 Valuable Lessons I Learned.</a></h4>
       <p>You have heard over and over again how open source contribution can exponentially improve your skills as someone who is trying to land a tech          role. You might have also come across a YouTube video of someone who landed a remote role by contributing to open source, and you felt so inspired and decided to contribute to open source too.
