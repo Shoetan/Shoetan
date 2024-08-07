@@ -30,7 +30,7 @@ I am Emmanuel a Full-stack engineer proficient in React JS and Golang, Enthusias
 
 ## 🪴 Currently Learning
 
-[<img src="assets/french-flag.png" height="50px">]()
+[<img src="assets/french-flag.png" height="50px">](https://www.duolingo.com/profile/Shoetan?via=share_profile_link)
 
 
 ## 🌐 Socials
