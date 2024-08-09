@@ -23,7 +23,7 @@ I am Emmanuel a Full-stack engineer proficient in React JS and Golang, Enthusias
 </ul>
 
 ## 🛠 I've contributed to
-
+[<img src="assets/shinigami.png" height="50px">](https://github.com/keep-starknet-strange/shinigami/pull/119)
 [<img src="assets/carbonable.png" height="50px">](https://github.com/carbonable-labs/carbon-protocol-v3/pull/82)
 [<img src="assets/art-peace.png" height="50px">](https://github.com/keep-starknet-strange/art-peace/pull/224)
 [<img src="assets/joyboy.png" height="50px">](https://github.com/keep-starknet-strange/joyboy/pull/136)
