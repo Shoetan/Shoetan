@@ -8,7 +8,7 @@ On personal projects like PassIn, where I added encryption to protect user data,
 
 Beyond my professional work, I contribute to open-source projects. Where I contributed to key features and tests for the Shinigami Bitcoin Script VM and Carbonable's protocol. 
 
-I combine technical skills with a passion for learning and problem-solving. This allows me to break down complex challenges into small bits and deliver solutions that make a difference. I'm always eager to take on new projects and continue growing in this ever-evolving field.
+I combine technical skills with a strong desire for learning and problem-solving. This allows me to break down complex challenges into small bits and deliver solutions that make a difference. I'm always eager to take on new projects and continue growing in this ever-evolving field.
 
 - 🔮 Open source contributor: [onlyDust](https://app.onlydust.com/u/Shoetan).
 - 📫 How to reach me: [soetan.dev@gmail.com](https://soetan.dev@gmail.com).
