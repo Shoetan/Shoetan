@@ -2,7 +2,13 @@
 
 
 ## 🙋🏽About Me:
-I am Emmanuel a Full-stack engineer proficient in React JS and Golang, Enthusiast in blockchain technology. Desiring challenging roles to contribute to cutting-edge projects.
+I am a skilled software engineer with a background in full-stack development. Focusing on Golang, React, and the Cairo programming language. I am very familiar with building secure REST APIs, and Backends solutions, creating responsive front-end web applications.
+
+On personal projects like PassIn, where I added encryption to protect user data, and Panda Eats, where I improved the online food ordering experience. I am confident in my ability to solve problems and deliver results as seen in the projects I have worked on.
+
+Beyond my professional work, I contribute to open-source projects. Where I contributed to key features and tests for the Shinigami Bitcoin Script VM and Carbonable's protocol. 
+
+I combine technical skills with a passion for learning and problem-solving. This allows me to break down complex challenges into small bits and deliver solutions that make a difference. I'm always eager to take on new projects and continue growing in this ever-evolving field.
 
 - 🔮 Open source contributor: [onlyDust](https://app.onlydust.com/u/Shoetan).
 - 📫 How to reach me: [soetan.dev@gmail.com](https://soetan.dev@gmail.com).
