@@ -19,10 +19,10 @@ I combine technical skills with a strong desire for learning and problem-solving
 ## Latest Blog Posts
 <ul style="display: grid; grid-template-columns: repeat(2, 1fr); grid-template-rows: repeat(2, auto); gap: 10px;">
    <li style="">
-    <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1713198600939/aebb5d82-ca73-4f67-a56b-efff98c71a6e.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Connect to a PostgreSQL database with Golang easily" width="300" height="150">
+    <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1724332325840/76f4bc51-7a0e-46d7-82c5-9197cb15b37b.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Getting started with RabbitMQ in Golang width="300" height="150">
     <div style ="display: flex; flex-direction: column gap: 10px;">
-      <h4><a href="https://immanuelsoetan.hashnode.dev/how-to-effortlessly-connect-to-postgresql-with-golang">Connect to a PostgreSQL with Docker very easily.</a></h4>
-      <p> I almost lost my mind When I tried to connect to a database for the first time. It was so frustrating and I do not want you to go through what I went through.
+      <h4><a href="https://immanuelsoetan.hashnode.dev/getting-started-with-rabbitmq-in-golang">Connect to a PostgreSQL with Docker very easily.</a></h4>
+      <p> Getting started is not difficult and I wrote a step-by-step guide to getting you started.
       </p>
     </div>
   </li>
