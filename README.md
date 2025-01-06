@@ -23,7 +23,7 @@ I combine technical skills with a strong desire for learning and problem-solving
 | 2   | Connect PostgreSQL to your Golang app   | [<img src="assets/POSTGRES.png" height="50px">](https://immanuelsoetan.hashnode.dev/how-to-effortlessly-connect-to-postgresql-with-golang)     |
 | 3   | Getting started with RabbitMQ           | [<img src="assets/RABBIT MQ.png" height="50px">](https://immanuelsoetan.hashnode.dev/getting-started-with-rabbitmq-in-golang)    |
 | 4   | Run PostgreSQL & pgAdmin in Docker      | [<img src="assets/Docker postgres.png" height="50px">](https://immanuelsoetan.hashnode.dev/run-postgresql-and-pgadmin-through-docker-how-is-it-done) |
-| 5   | See more of my article                  | [Click here](https://immanuelsoetan.hashnode.dev/?source=top_nav_blog_home) |
+| 5   | See more of my articles                 | [Click here](https://immanuelsoetan.hashnode.dev/?source=top_nav_blog_home) |
 
 
 
