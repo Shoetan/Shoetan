@@ -18,11 +18,11 @@ I combine technical skills with a strong desire for learning and problem-solving
 
 ## 📖 Blog Posts
 | S/N      | Title                                   | Link     |
-|----------|-----------------------------------------|----------|
-| 1        | Buildig a CLI in Golang                 | Data 3   |
-| 2        | Connect PostgreSQL to your Golang app   | Data 6   |
-| 3        | Getting started with RabbitMQ           | Data 9   |
-| 4        | Run PostgreSQL & pgAdmin in Docker      | Data 9   |
+|----------|-----------------------------------------|----------------------------------------------------|
+| 1        | Building a CLI in Golang                | [<img src="assets/shinigami.png" height="50px">]   |
+| 2        | Connect PostgreSQL to your Golang app   | [<img src="assets/shinigami.png" height="50px">]   |
+| 3        | Getting started with RabbitMQ           | [<img src="assets/shinigami.png" height="50px">]   |
+| 4        | Run PostgreSQL & pgAdmin in Docker      |  [<img src="assets/shinigami.png" height="50px">]  |
 
 
 
