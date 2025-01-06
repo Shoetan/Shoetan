@@ -16,17 +16,10 @@ I combine technical skills with a strong desire for learning and problem-solving
 ## 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## Latest Blog Posts
-<ul style="display: grid; grid-template-columns: repeat(2, 1fr); grid-template-rows: repeat(2, auto); gap: 10px;">
-   <li style="">
-    <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1724332325840/76f4bc51-7a0e-46d7-82c5-9197cb15b37b.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Getting started with RabbitMQ in Golang width="300" height="150">
-    <div style ="display: flex; flex-direction: column gap: 10px;">
-      <h4><a href="https://immanuelsoetan.hashnode.dev/getting-started-with-rabbitmq-in-golang">Connect to a PostgreSQL with Docker very easily.</a></h4>
-      <p> Getting started is not difficult and I wrote a step-by-step guide to getting you started.
-      </p>
-    </div>
-  </li>
-</ul>
+## 📖 Blog Posts
+S/N  | Title | Link 
+
+
 
 ## 🛠 I've contributed to
 [<img src="assets/shinigami.png" height="50px">](https://github.com/keep-starknet-strange/shinigami/pull/119)
