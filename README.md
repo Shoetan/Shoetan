@@ -19,10 +19,10 @@ I combine technical skills with a strong desire for learning and problem-solving
 ## 📖 Blog Posts
 | S/N | Title                                   | Link     |
 |-----|-----------------------------------------|----------------------------------------------------|
-| 1   | Building a CLI in Golang                | [<img src="assets/CLI.png" height="50px">](https://immanuelsoetan.hashnode.dev/build-a-cli-in-golang-with-cobra)           |
-| 2   | Connect PostgreSQL to your Golang app   | [<img src="assets/POSTGRES.png" height="50px">](https://immanuelsoetan.hashnode.dev/how-to-effortlessly-connect-to-postgresql-with-golang)     |
-| 3   | Getting started with RabbitMQ           | [<img src="assets/RABBIT MQ.png" height="50px">](https://immanuelsoetan.hashnode.dev/getting-started-with-rabbitmq-in-golang)    |
-| 4   | Run PostgreSQL & pgAdmin in Docker      | [<img src="assets/Docker postgres.png" height="50px">](https://immanuelsoetan.hashnode.dev/run-postgresql-and-pgadmin-through-docker-how-is-it-done) |
+| 1   | Building a CLI in Golang                | [Link](https://immanuelsoetan.hashnode.dev/build-a-cli-in-golang-with-cobra)           |
+| 2   | Connect PostgreSQL to your Golang app   | [Link](https://immanuelsoetan.hashnode.dev/how-to-effortlessly-connect-to-postgresql-with-golang)     |
+| 3   | Getting started with RabbitMQ           | [Link](https://immanuelsoetan.hashnode.dev/getting-started-with-rabbitmq-in-golang)    |
+| 4   | Run PostgreSQL & pgAdmin in Docker      | [Link](https://immanuelsoetan.hashnode.dev/run-postgresql-and-pgadmin-through-docker-how-is-it-done) |
 | 5   | See more of my articles                 | [Click here](https://immanuelsoetan.hashnode.dev/?source=top_nav_blog_home) |
 
 
